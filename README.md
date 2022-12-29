@@ -39,4 +39,11 @@ pip install git+https://github.com/cccntu/diffusers@b43bc04e2
   journal={arXiv preprint arXiv:2208.01626},
   year={2022}
 }
+
+@misc{feng2022structured,
+  title = {Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis},
+  author = {Feng, Weixi and He, Xuehai and Fu, Tsu-Jui and Jampani, Varun and Akula, Arjun and Narayana, Pradyumna and Basu, Sugato and Wang, Xin Eric and Wang, William Yang},
+  journal={arXiv preprint arXiv:2212.05032},
+  year={2022}
+}
 ```
